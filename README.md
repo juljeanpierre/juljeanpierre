@@ -1,5 +1,5 @@
 
-<img align="center" src="banner.png">
+![banner](banner.png)
 
 - - -
 
