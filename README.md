@@ -11,7 +11,8 @@
 </p>
 
 
-
-> A Developer who's life has been tremendously influenced by tech. My career started out in the computer hardware era and naturally migrated to the cloud. My journey with code|development started with me building fun little #PYTHON games. My very 1st game, was a version of the #CLASSIC [AST3ROIDS.](http://www.codeskulptor.org/#user40_5BUYA3jSYy_1.py) ☄️ Being able to put some text into an interpreter and have it return moving pixels, is what ultimately drew me in.
+<p align="center">
+  <script src="https://tryhackme.com/badge/263358"></script>
+</p>
 
 - - -
