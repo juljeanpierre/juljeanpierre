@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <script src="https://tryhackme.com/badge/263358"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ReaperKM.png" alt="TryHackMe"/>
 </p>
 
 - - -
