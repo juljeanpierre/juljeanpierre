@@ -13,9 +13,7 @@
 
 - - -
 
-<div align="left">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ReaperKM.png" alt="Your Image Badge" style="width: 200px;">
-</div>
-<div align="left">
-    <img src="https://www.hackthebox.eu/badge/image/369092" alt="HackTheBox Badge" style="width: 200px;">
+<div>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ReaperKM.png" alt="Your Image Badge" style="width: 200px;" align="left">
+    <img src="https://www.hackthebox.eu/badge/image/369092" alt="HackTheBox Badge" style="width: 200px;" align="right">
 </div>
