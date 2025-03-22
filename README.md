@@ -13,7 +13,7 @@
 
 - - -
 
-<div align="left">
+<div align="right">
     <img src="https://tryhackme-badges.s3.amazonaws.com/ReaperKM.png" alt="Your Image Badge" style="width: 200px;">
 </div>
 <div align="right">
