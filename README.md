@@ -13,7 +13,7 @@
 
 - - -
 
-<div style="display: flex; justify-content: space-between;">
-    <script src="https://tryhackme.com/badge/263358"></script>
-    <script src="https://www.hackthebox.eu/badge/369092"></script>
+<div align="center">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/263358.png" alt="TryHackMe Badge" style="width: 200px;">
+    <img src="https://www.hackthebox.eu/badge/image/369092" alt="HackTheBox Badge" style="width: 200px;">
 </div>
