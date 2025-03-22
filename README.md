@@ -14,6 +14,6 @@
 - - -
 
 <div align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/263358.png" alt="TryHackMe Badge" style="width: 200px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ReaperKM.png" alt="Your Image Badge" style="width: 200px;">
     <img src="https://www.hackthebox.eu/badge/image/369092" alt="HackTheBox Badge" style="width: 200px;">
 </div>
