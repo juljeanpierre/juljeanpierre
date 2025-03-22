@@ -12,3 +12,8 @@
 
 
 - - -
+
+<div style="display: flex; justify-content: space-between;">
+    <script src="https://tryhackme.com/badge/263358"></script>
+    <script src="https://www.hackthebox.eu/badge/369092"></script>
+</div>
